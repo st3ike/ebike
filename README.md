@@ -1,0 +1,1 @@
+Make sure to replace "bike1.jpg" and "bike2.jpg" with the actual filenames of the images of your electric bikes. You can also customize the features displayed for each bike by adding HTML content within the <div class="features"> section for each bike entry.
